@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 .idea/
-
+chap5_CNN/mnist/
+chap5_CNN/MNIST_data/
