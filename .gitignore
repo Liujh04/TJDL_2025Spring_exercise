@@ -1,4 +1,7 @@
 .ipynb_checkpoints
 .idea/
-chap5_CNN/mnist/
-chap5_CNN/MNIST_data/
+mnist/
+MNIST_data/
+__pycache__/
+*.py[cod]
+*$py.class
